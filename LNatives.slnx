@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Folder Name="/LBuffers/" />
+  <Folder Name="/LStorage/" />
+  <Folder Name="/LStreams/">
+    <Project Path="src/LStreams/LStreams/LStreams.csproj" Id="3affa59b-a529-4759-a907-5961c40afe20" />
+  </Folder>
+</Solution>
