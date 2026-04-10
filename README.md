@@ -1,8 +1,8 @@
+#LNatives 
+
 **Lean. Fast. Foundational.**
 
 LNatives is a curated suite of lightweight, high-performance C# libraries designed to streamline everyday low-level programming tasks. Forget hunting for external dependencies — LNatives provides a cohesive set of tools for buffer management, bit-level manipulation, and memory-efficient data storage, all written in C#.
-
-> *"These are several simple yet powerful libraries written in C#. They cover buffer management, bit and byte streams, and efficient storage of various data types."*
 
 ### 🧩 Core Components
 
