@@ -26,13 +26,15 @@ namespace LStreams
         /// <summary>
         /// Shows how many bytes was written.
         /// </summary>
-        // To calculate how many bytes was written we use a simple formula (position + 7) / 8
+        // To calculate how many bytes was written we use a simple formula:
+        // (position + 7) / 8
         public int BytesWritten => (_bitPosition + 7) / 8;
 
         /// <summary>
         /// Shows how many free bits remaining in the buffer.
         /// </summary>
-        // To calculate remaining size in bits use this formula (length * 8) - position
+        // To calculate remaining size in bits use this formula:
+        // (length * 8) - position
         public int RemainingBits => (_buffer.Length * 8) - _bitPosition;
 
         /// <summary>
