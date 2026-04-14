@@ -2,6 +2,7 @@
   <Folder Name="/LBuffers/" />
   <Folder Name="/LStorage/" />
   <Folder Name="/LStreams/">
+    <Project Path="src/LStreams/LStreams.Tests/LStreams.Tests.csproj" Id="747fa6ed-5646-4a78-88c4-8eb5e9ba141f" />
     <Project Path="src/LStreams/LStreams/LStreams.csproj" Id="3affa59b-a529-4759-a907-5961c40afe20" />
   </Folder>
 </Solution>
