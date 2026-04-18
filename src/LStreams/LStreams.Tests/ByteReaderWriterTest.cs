@@ -8,7 +8,7 @@ namespace LStreams.Tests
     /// <summary>
     /// This class is a test of <see cref="ByteWriter"/> and <see cref="ByteReader"/>.
     /// </summary>
-    public static class ByteReaderWriter
+    public static class ByteReaderWriterTest
     {
         /// <summary>
         /// Asyncronly writes a data to the file.

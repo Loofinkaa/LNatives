@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/LBuffers/">
+    <Project Path="src/LBuffers/LBuffers.Tests/LBuffers.Tests.csproj" Id="d8f95e4b-d0a9-46d8-b58e-9fbc040fff79" />
     <Project Path="src/LBuffers/LBuffers/LBuffers.csproj" Id="a6498cf8-6f3d-49fb-885c-91716fd73693" />
   </Folder>
   <Folder Name="/LStorage/" />

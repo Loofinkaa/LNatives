@@ -13,7 +13,7 @@ namespace LStreams.Tests
         /// <param name="args">Additional command line args.</param>
         public static async Task Main(string[] args)
         {
-            ByteReaderWriter.ReadOperation();
+            ByteReaderWriterTest.ReadOperation();
         }
     }
 }
